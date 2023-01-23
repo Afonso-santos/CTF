@@ -1,0 +1,8 @@
+1.
+ python .\ende.py
+2.
+ python .\ende.py -d .\flag.txt.en 
+3.
+ write password -"192ee2db192ee2db192ee2db192ee2db" 
+4.
+ flag - picoCTF{4p0110_1n_7h3_h0us3_192ee2db} 

@@ -1,0 +1,6 @@
+1.
+ nc saturn.picoctf.net 51110
+2.
+ We see the file vuln.c we can see a arrawy buf2 with a lenght 16 and arrawy buf1 with lenght 100 ,so if we put a arrawy with lenght bigger then 16 lenght we can broke the code and take the flag
+3.
+ picoCTF{ov3rfl0ws_ar3nt_that_bad_8ba275ff}

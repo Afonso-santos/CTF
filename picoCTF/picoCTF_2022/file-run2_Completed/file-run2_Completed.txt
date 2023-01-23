@@ -1,0 +1,5 @@
+1.
+  if we do what the statement say we only need to write "./run Hello! "
+2.
+ flag =  picoCTF{F1r57_4rgum3n7_f65ed63e}
+ 
