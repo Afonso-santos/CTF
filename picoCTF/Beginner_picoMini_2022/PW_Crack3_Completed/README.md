@@ -30,7 +30,7 @@
    <details>
        <summary> Flag </summary>
   
-         picoCTF{545h_r1ng1ng_fa343060}
+         picoCTF{m45h_fl1ng1ng_2b072a90}
   
    </details>
     
