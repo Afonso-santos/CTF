@@ -5,7 +5,7 @@
     $ wget https://artifacts.picoctf.net/c/23/level3.flag.txt.enc
     $ wget https://artifacts.picoctf.net/c/23/level3.hash.bin
   ```
-  2. We have a list of 7 possible passwords. We can try the 7 passwords one ir will work, but i am lazy to try all teh 7 passwords. So i creat a for loop adapting the original code (in file level3_Completed.py).
+  2. We have a list of 7 possible passwords. We can try the 7 passwords one it will work, but i am lazy to try all teh 7 passwords. So i creat a for loop adapting the original code (in file level3_Completed.py).
    <details>
       <summary> for loop </summary>
        
