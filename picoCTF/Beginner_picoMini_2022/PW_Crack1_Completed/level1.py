@@ -26,5 +26,3 @@ def level_1_pw_check():
 
 
 level_1_pw_check()
-
-# flag = picoCTF{545h_r1ng1ng_fa343060}
