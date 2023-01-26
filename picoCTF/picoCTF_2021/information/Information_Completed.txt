@@ -1,8 +1,0 @@
-1.
- wget https://mercury.picoctf.net/static/d1375e383810d8d957c04eef9e345732/cat.jpg
-2.
- exiftool cat.jpg  
-3.
- echo cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9 | base64 -d
-
-flag = picoCTF{the_m3tadata_1s_modified}
