@@ -44,4 +44,4 @@ pos_pw_list = ["158f", "1655", "d21e", "4966", "ed69", "1010", "dded", "844c", "
 for ps in pos_pw_list:
     level_4_pw_check(ps)
 
-#flag =  picoCTF{fl45h_5pr1ng1ng_cf341ff1}
+
