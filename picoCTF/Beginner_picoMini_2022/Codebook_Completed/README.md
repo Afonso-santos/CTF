@@ -4,7 +4,7 @@
   $ wget https://artifacts.picoctf.net/c/102/code.py
   $ wget https://artifacts.picoctf.net/c/102/codebook.txt
   ```
-  2. Run the python code 
+  2. Run the python code. 
   <details>
     <summary> Flag </summary>
     
