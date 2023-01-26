@@ -1,4 +1,0 @@
-1.
-  strat the pyhon code 
-2.
- flag = picoCTF{c0d3b00k_455157_197a982c}
