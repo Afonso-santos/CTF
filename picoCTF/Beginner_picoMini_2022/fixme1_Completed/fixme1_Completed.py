@@ -1,8 +1,6 @@
 
 import random
 
-
-
 def str_xor(secret, key):
     #extend key to secret length
     new_key = key
@@ -20,7 +18,3 @@ flag = str_xor(flag_enc, 'enkidu')
 
 print('That is correct! Here is your flag: ' + flag)
 
-# flag = str_xor(flag_enc, 'enkidu')
-#   print('That is correct! Here is your flag: ' + flag)
-
-# print was inside the flag and need to stay bellow the fuction
