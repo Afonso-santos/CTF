@@ -9,7 +9,7 @@
    <details>
       <summary> for loop </summary>
        
-        def level_3_pw_check(user_pw):
+        def level_4_pw_check(user_pw):
           user_pw_hash = hash_pw(user_pw)
     
           if( user_pw_hash == correct_pw_hash ):
