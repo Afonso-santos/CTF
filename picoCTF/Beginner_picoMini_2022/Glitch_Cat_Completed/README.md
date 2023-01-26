@@ -1,5 +1,5 @@
 ## Solution:
- 1. Run  this code.
+  1. Run  this code.
   ```
   $ nc saturn.picoctf.net 51109
   ```
