@@ -10,7 +10,7 @@
   
   </details>
   
-   2. Open the python 3. Paste the previous hex String.
+   2. Open the python 3, in trminal . Paste the previous hex String, to uncrtypted.
   
    <details>
      <summary> Flag </summary>
