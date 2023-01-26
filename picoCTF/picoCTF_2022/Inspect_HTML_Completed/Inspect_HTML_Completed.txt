@@ -1,0 +1,4 @@
+1.
+ Open the website and go to DevTools/elements
+2. 
+ flag = picoCTF{1n5p3t0r_0f_h7ml_fd5d57bd}

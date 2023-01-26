@@ -1,0 +1,13 @@
+1.
+ wget https://artifacts.picoctf.net/c/325/Flag.pdf
+
+2.
+ Now we need to decompress or extract the file until we find a heximal file 
+
+3.
+ write this code we can create a binary file from a hexadecimal representation (hexdump), or vice-versa.
+ cat flag | xxd -r -p
+
+4.
+  flag = picoCTF{f1len@m3_m@n1pul@t10n_f0r_0b2cur17y_950c4fee}
+S

@@ -15,7 +15,7 @@ flag_enc = open('level2.flag.txt.enc', 'rb').read()
 
 def level_2_pw_check():
     user_pw = input("Please enter correct password for flag: ")
-    if( user_pw == chr(0x33) + chr(0x39) + chr(0x63) + chr(0x65) ):
+    if( user_pw == chr(0x33) + chr(0x39) + chr(0x63) + chr(0x65) ): # <-- crypto passowrd 
         print("Welcome back... your flag, user:")
         decryption = str_xor(flag_enc.decode(), user_pw)
         print(decryption)

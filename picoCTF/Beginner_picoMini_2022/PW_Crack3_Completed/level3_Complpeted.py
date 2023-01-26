@@ -48,12 +48,3 @@ pos_pw_list = ["6997", "3ac8", "f0ac", "4b17", "ec27", "4e66", "865e"]
 for ps in pos_pw_list:
     level_3_pw_check(ps)
 
-#response : 
-#That password is incorrect
-#That password is incorrect
-#That password is incorrect
-#Welcome back... your flag, user:
-#picoCTF{m45h_fl1ng1ng_2b072a90}
-#That password is incorrect
-#That password is incorrect
-#That password is incorrect
