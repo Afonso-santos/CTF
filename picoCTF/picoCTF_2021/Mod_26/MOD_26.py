@@ -10,10 +10,10 @@ def rote13(pharse):
   for letter in phrase:
     if letter  not in especialChar:
       if letter in abc:
-        result= [*abc,*abc][(abc.find(letter)+13 )]
+        result= [*abc,*abc][(abc.find(letter)+13) % 26]
         flag+=result
       else:
-        result=[*ABC,*ABC][(ABC.find(letter)+13)]
+        result=[*ABC,*ABC][(ABC.find(letter)+13) % 26 ]
         flag+= result
     else:
         flag+=letter

@@ -12,4 +12,3 @@ for crypto in crypto_flag:
 
 print("picoCTF{"+flag+"}")
 
-# picoCTF{1NV3R53LY_H4RD_8A05D939}
