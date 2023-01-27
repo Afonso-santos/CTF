@@ -3,7 +3,7 @@
   ```
     $ wget https://artifacts.picoctf.net/c/325/Flag.pdf
   ```
-  2. Now we need to extract or unzip file  unitl you see a hexadecimal string. Only need to convert hex to string.
+  2. Now we need to extract or unzip file ,(exemple: flag.lzop ; flag.cpio), unitl you see a hexadecimal string (file "flag"). Only need to convert hex to string.
       <details>
        <summary> Flag </summary>
   
