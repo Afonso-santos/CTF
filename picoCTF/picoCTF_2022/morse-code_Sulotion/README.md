@@ -1,12 +1,12 @@
 ## Solution
   1. Download the audio file.
-    ```
+   ```
       $ wget https://artifacts.picoctf.net/c/235/morse_chal.wav
-    ```
+   ```
   2. We can open a audio editor, in my case I use audacity, to covert audio to text. I use "_" as space  (code_morse.txt)
-   ```
-      .-- .... ....- --... _ .... ....- --... .... _ ----. ----- -.. _ .-- ..---  ----- ..- ----. .... --...
-   ```
+    ```
+       .-- .... ....- --... _ .... ....- --... .... _ ----. ----- -.. _ .-- ..---  ----- ..- ----. .... --...
+    ```
   3. To decode the morse code I creat this script 
      ```py
       morse_code_dic = { '.-':'a','-...':'b',
@@ -30,10 +30,10 @@
         msg += morse_code_dic.get(letter)
 
       print("picoCTF{" + msg + "}" )
-     ```
-    <details>
+      ```
+   <details>
        <summary> Flag </summary>
   
          picoCTF{wh47_h47h_90d_w20u9h7}
    
-     </details>
+   </details>
