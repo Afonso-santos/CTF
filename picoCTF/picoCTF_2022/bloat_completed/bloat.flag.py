@@ -1,4 +1,4 @@
-pyhtoimport sys
+
 a = "!\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ"+ \
             "[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ "
 def arg133(arg432):
